@@ -3,7 +3,6 @@ A project of Data Structure
 # Project 1 说明文档
  语言：Java
  环境：IntelliJ IDEA
- 20302010060 吴嘉婕
 
 ---
 ## 1. 红黑树
